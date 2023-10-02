@@ -1,0 +1,4 @@
+api testi swagger consume etme bitti
+temayý ekleme 
+register  - login
+onay bekliyor  onaylandý iptal edildi bekletiliyor
